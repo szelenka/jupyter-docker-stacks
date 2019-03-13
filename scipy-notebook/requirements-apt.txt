@@ -1,0 +1,44 @@
+# scipy & numpy
+# http://scipy.github.io/devdocs/building/linux.html
+libopenblas-dev
+liblapack-dev
+
+# numba
+llvm-7-dev
+llvm
+
+# matplotlib
+# https://matplotlib.org/users/installing.html#dependencies
+libfreetype6-dev
+libpng-dev
+pkg-config
+ffmpeg
+
+# hdf5
+libhdf5-dev
+
+# bokeh
+# https://bokeh.pydata.org/en/latest/docs/installation.html
+# TODO: nodejs & Selenium, PhantomJS
+
+# Graphviz
+graphviz
+
+# scikit-image
+#python-pywt
+
+# igraph
+libgmp-dev
+libxml2-dev
+zlib1g-dev
+pkg-config
+libffi-dev
+libcairo-dev
+
+# graph-tool
+# https://git.skewed.de/count0/graph-tool/wikis/installation-instructions#manual-compilation
+#libboost-all-dev
+#libcgal-dev
+#expat
+#libsparsehash-dev
+#python-graph-tool

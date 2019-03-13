@@ -1,0 +1,4 @@
+# need these packages installed to compile for:
+# pandas, statsmodels, seaborn
+numpy         == 1.16.2
+scipy         == 1.1.0

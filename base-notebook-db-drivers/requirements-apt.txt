@@ -1,0 +1,23 @@
+# official MS drivers require a specific version of SSL
+libssl1.0.2
+libgssapi-krb5-2
+msodbcsql17
+
+# odbc drivers
+unixodbc-dev
+
+# postgres drivers
+libpq-dev
+
+# mysql drivers
+# default-libmysqlclient-dev
+# cryptography (i.e. PyMySQL)
+libssl-dev
+libffi-dev
+
+# cx_Oracle
+libaio1
+
+# impyla
+libsasl2-dev
+libsasl2-modules
